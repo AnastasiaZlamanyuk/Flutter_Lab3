@@ -6,7 +6,6 @@ const startAlignment = Alignment.topCenter;
 const endAlignment = Alignment.bottomCenter;
 
 class GradientContainer extends StatelessWidget {
-  
   const GradientContainer(
     this.color1,
     this.color2,
@@ -16,7 +15,6 @@ class GradientContainer extends StatelessWidget {
   final Color color1;
   final Color color2;
   final Color color3;
-
   @override
   Widget build(BuildContext context) {
     return Container(
