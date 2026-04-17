@@ -17,7 +17,7 @@
 
 ## Скриншот финального приложения
 
-![Roll Dice App](img/step6_Zlamanyuk_Telyatnikova)
+![Roll Dice App](img/step6_Telyatnikova_Zlamanyuk.png)
 
 ## Ссылка на репозиторий
 
